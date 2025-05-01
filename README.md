@@ -99,5 +99,3 @@
 3. **Track Your Progress:** Use GitHub repositories, personal blogs, or LinkedIn posts to showcase your work.  
 4. **Engage with the Community:** Join discussions on platforms such as Reddit (r/datascience) or LinkedIn groups to stay updated and connected.  
 5. **Build Portfolio Projects:** Every two weeks, apply your knowledge to a comprehensive project to demonstrate practical skills.
-
-Would you like a **personalized daily practice plan** tailored to your current skill level and goals?
